@@ -1,0 +1,13 @@
+{
+    "name": "vangarde/impl",
+    "description": "Vangarde TMS Impl. Package",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Vangarde\\Impl\\": "src/"
+        }
+    },
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "require": {}
+}
